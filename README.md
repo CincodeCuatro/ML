@@ -10,10 +10,10 @@ Dataset source: [Link](https://www.kaggle.com/ylchang/coffee-shop-sample-data-11
 # Implenetation
 Python
 ## Libaries 
-*pandas 
-*numpy
-*sklearn
-*matplotlib
-*seaborn
+* pandas 
+* numpy
+* sklearn
+* matplotlib
+* seaborn
 
 Use linear regression to predict the quantity_sold on a given day
