@@ -16,4 +16,7 @@ Python
 * matplotlib
 * seaborn
 
-Use linear regression to predict the quantity_sold on a given day
+Use linear regression to predict the quantity_sold on a given day at a given location
+ex:
+#sales outlet 3, product id 72 (ginger scone), weekday = 0, Monday
+math.ceil(model.predict([[3, 72, 0]]))
